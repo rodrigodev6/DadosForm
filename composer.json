@@ -1,0 +1,12 @@
+{
+    "name": "rodrigo/projeto-php",
+    "description": "Projeto para cadastro de proponentes",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "DadosForm\\": "src/"
+        }
+    },
+    "require": {}
+}
